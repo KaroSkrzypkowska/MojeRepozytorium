@@ -1,1 +1,3 @@
 # MojeRepozytorium
+
+Dodanie prezentacji WPF
